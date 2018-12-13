@@ -1,4 +1,4 @@
-# First-Proget-for-Algorithms
+# First-Project-for-Algorithms
 This is the repository for the first project by Marco Calavaro and Alessandro Montenegro 
 #
 Nella Cartella Results sono inseriti i risultati dei vari test contenuti in file .csv e grafici 
