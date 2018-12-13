@@ -1,4 +1,4 @@
-In questa cartella sono contenuti i vari file .csv ottenuti dai vari test 
+In questa cartella sono contenuti i vari file .csv ottenuti dai vari test i loro tabulati e grafici (file tabulati.xlsx)   
 
 Sono stati presi i tempi di esecuzione degli algoritmi nel file Sorting oltre ai vari test utili per il progetto
 
